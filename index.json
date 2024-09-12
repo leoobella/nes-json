@@ -105,38 +105,5 @@
       "zone": "modena centro",
       "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/cotton4.jpg"
     }
-  },
-  {
-    "_id": "66d4de9bd8af518cf7585975",
-    "place": "65b57ad3f3dbb3eb6796e53c",
-    "tickets": [
-      {
-        "name": "uomo",
-        "description": "hasfoidd",
-        "price": 15
-      }
-    ],
-    "images": [
-      "374fdc1085f2bc392bea9b00b5150d5e.jpeg",
-      "e49709c913d78603fa346be10c1lebf3.jpeg"
-    ],
-    "descrizione": "Il saturday snoopy è il sabato sera della nodena centro, l'età media è dai 15-22 anni, i dj selezionati e l'atmosfera di questa storica discoteca sapranno come farti passare una magica serata",
-    "endTime": 1720213200000,
-    "isAcquistabile": true,
-    "nomeEvento": "Saturday Snoopy",
-    "startTime": 1720213200000,
-    "photo": "e49709c913d78603fa346be10c1lebf3.jpeg",
-    "timeline": 1824820000000,
-    "local": {
-      "_id": "65b57ad3f3dbb3eb6796e53c",
-      "name": "Snoopy Club",
-      "biography": "un'icona nel cuore di Modena, il luogo in cui la notte prende vita. Con la sua storia e il suo fascino senza tempo, Snoopy è il ritrovo perfetto per un'esperienza notturna indimenticabile.",
-      "indirizzo": "Piazza della Cittadella, 2/3",
-      "latitudine": 44.654136,
-      "longitudine": 10.918169,
-      "tipologiaLocale": "discoteca",
-      "zone": "modena centro",
-      "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg"
-    }
   }
 ]
