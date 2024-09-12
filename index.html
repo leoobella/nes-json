@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JSON Viewer</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    pre { background-color: #f4f4f4; padding: 15px; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <h1>Visualizza JSON</h1>
+  <pre id="json-display"></pre>
+
+  <script>
+    // Il tuo JSON
+    const jsonData = {
+      "id": "65c8f7bb1952d90cf03da133",
+      "place": "65b57ad3f3dbb3eb6796e53c",
+      "tickets": [{ "name": "uomo", "description": "hasfoidd", "price": 15 }],
+      "images": ["374fdc1085f2bc392bea9b00b5150d5e.jpeg", "e49709c913d78603fa346be10c1lebf3.jpeg"],
+      "descrizione": "Il saturday Snoopy è il sabato sera della Modena centro...",
+      "startTime": 1719867600000,
+      "endTime": 1719885000000,
+      "timeline": 1824820000000,
+      "local": {
+        "_id": "65b57ad3f3dbb3eb6796e53c",
+        "name": "Snoopy Club",
+        "biography": "Un'icona nel cuore di Modena...",
+        "indirizzo": "Piazza della Cittadella",
+        "latitudine": 44.654136,
+        "longitudine": 10.918169,
+        "tipologiaLocale": "discoteca",
+        "zone": "modena centro",
+        "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg"
+      }
+    };
+
+    // Mostra il JSON formattato
+    document.getElementById('json-display').textContent = JSON.stringify(jsonData, null, 2);
+  </script>
+</body>
+</html>
