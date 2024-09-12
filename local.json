@@ -23,13 +23,13 @@
   },
   {
     "_id": "668fc7ea63d1f913a69e74da",
-    "name": "cotton club",
-    "biography": "Un’oasi di sapori sui viali del parco. \n Colazioni, pranzi, aperitivi e cene.",
+    "name": "Cotton Club",
+    "biography": "Il Cotton Club è un locale storico di Modena che offre eventi musicali dal vivo in un ambiente elegante e raffinato. Il palco ospita artisti di vari generi, creando serate indimenticabili per gli appassionati di musica.",
     "indirizzo": "Viale delle Rimembranze, 55, 41121 Modena MO",
-    "latitudine": 44.642344,
-    "longitudine": 10.921997,
-    "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/cotton4.jpg",
+    "latitudine": 44.646421,
+    "longitudine": 10.930264,
     "tipologiaLocale": "lounge bar",
-    "zone": "modena centro"
+    "zone": "modena centro",
+    "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/cotton4.jpg"
   }
 ]
