@@ -14,55 +14,53 @@
   <pre id="json-display"></pre>
 
   <script>
-    // Il tuo JSON
-    const jsonData = {
-      [
-    {
-        "_id": "65b57ad3f3dbb3eb6796e53c",
-        "name": "Snoopy Club",
-        "biography": "un'icona nel cuore di Modena, il luogo in cui la notte prende vita. Con la sua storia e il suo fascino senza tempo, Snoopy è il ritrovo perfetto per un'esperienza notturna indimenticabile. Unisciti a noi e scopri il ritmo pulsante dello Snoopy Modena.\n",
-        "indirizzo": "Piazza della Cittadella, 2/3",
-        "latitudine": 44.654136,
-        "longitudine": 10.918169,
-        "tipologiaLocale": "discoteca",
-        "zone": "modena centro",
-        "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg"
-    },
-    {
-        "_id": "65b5d26c149921e16b00ab2",
-        "name": "bobotti",
-        "biography": "Un’oasi di sapori sui viali del parco. \n Colazioni, pranzi, aperitivi e cene.",
-        "indirizzo": "viale delle Rimembranze, 55, 41121 Modena MO",
-        "latitudine": "44.642344",
-        "longitudine": "10.921997",
-        "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg",
-        "tipologiaLocale": "lounge bar",
-        "zone": "modena centro"
-    },
-    {
-        "_id": "668fc7ea63d1f913a69e74da",
-        "name": "bobotti 2",
-        "biography": "Un’oasi di sapori sui viali del parco. \n Colazioni, pranzi, aperitivi e cene.",
-        "indirizzo": "Viale delle Rimembranze, 55, 41121 Modena MO",
-        "latitudine": "44.642344",
-        "longitudine": "10.921997",
-        "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg",
-        "tipologiaLocale": "lounge bar",
-        "zone": "modena centro"
-    },
-    {
-        "_id": "65b57ad3f3dbb3eb6796e53c",
-        "name": "Snoopy Club",
-        "biography": "un'icona nel cuore di Modena, il luogo in cui la notte prende vita. Con la sua storia e il suo fascino senza tempo, Snoopy è il ritrovo perfetto per un'esperienza notturna indimenticabile. Unisciti a noi e scopri il ritmo pulsante dello Snoopy Modena.",
-        "indirizzo": "Piazza della Cittadella, 2/3",
-        "latitudine": 44.654136,
-        "longitudine": 10.918169,
-        "tipologiaLocale": "discoteca",
-        "zone": "modena centro",
-        "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg"
-    }
-]
-    };
+    // Il tuo JSON (corretto)
+    const jsonData = [
+      {
+          "_id": "65b57ad3f3dbb3eb6796e53c",
+          "name": "Snoopy Club",
+          "biography": "un'icona nel cuore di Modena, il luogo in cui la notte prende vita. Con la sua storia e il suo fascino senza tempo, Snoopy è il ritrovo perfetto per un'esperienza notturna indimenticabile. Unisciti a noi e scopri il ritmo pulsante dello Snoopy Modena.\n",
+          "indirizzo": "Piazza della Cittadella, 2/3",
+          "latitudine": 44.654136,
+          "longitudine": 10.918169,
+          "tipologiaLocale": "discoteca",
+          "zone": "modena centro",
+          "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg"
+      },
+      {
+          "_id": "65b5d26c149921e16b00ab2",
+          "name": "bobotti",
+          "biography": "Un’oasi di sapori sui viali del parco. \n Colazioni, pranzi, aperitivi e cene.",
+          "indirizzo": "viale delle Rimembranze, 55, 41121 Modena MO",
+          "latitudine": "44.642344",
+          "longitudine": "10.921997",
+          "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg",
+          "tipologiaLocale": "lounge bar",
+          "zone": "modena centro"
+      },
+      {
+          "_id": "668fc7ea63d1f913a69e74da",
+          "name": "bobotti 2",
+          "biography": "Un’oasi di sapori sui viali del parco. \n Colazioni, pranzi, aperitivi e cene.",
+          "indirizzo": "Viale delle Rimembranze, 55, 41121 Modena MO",
+          "latitudine": "44.642344",
+          "longitudine": "10.921997",
+          "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg",
+          "tipologiaLocale": "lounge bar",
+          "zone": "modena centro"
+      },
+      {
+          "_id": "65b57ad3f3dbb3eb6796e53c",
+          "name": "Snoopy Club",
+          "biography": "un'icona nel cuore di Modena, il luogo in cui la notte prende vita. Con la sua storia e il suo fascino senza tempo, Snoopy è il ritrovo perfetto per un'esperienza notturna indimenticabile. Unisciti a noi e scopri il ritmo pulsante dello Snoopy Modena.",
+          "indirizzo": "Piazza della Cittadella, 2/3",
+          "latitudine": 44.654136,
+          "longitudine": 10.918169,
+          "tipologiaLocale": "discoteca",
+          "zone": "modena centro",
+          "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg"
+      }
+    ];
 
     // Mostra il JSON formattato
     document.getElementById('json-display').textContent = JSON.stringify(jsonData, null, 2);
