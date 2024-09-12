@@ -1,0 +1,139 @@
+[
+  {
+    "_id": "65c8f7bb1952d90cf03da133",
+    "place": "65b57ad3f3dbb3eb6796e53c",
+    "tickets": [
+      {
+        "name": "uomo",
+        "description": "hasfoidd",
+        "price": 15
+      }
+    ],
+    "images": [
+      "374fdc1085f2bc392bea9b00b5150d5e.jpeg",
+      "e49709c913d78603fa346be10c1lebf3.jpeg"
+    ],
+    "descrizione": "Il saturday snoopy è il sabato sera della nodena centro, l'età media è dai 15-22 anni, i dj selezionati e l'atmosfera di questa storica discoteca sapranno come farti passare una magica serata",
+    "endtime": "1719885000000",
+    "isAcquistabile": true,
+    "nomeEvento": "Saturday Snoopy",
+    "startTime": "1719867600000",
+    "photo": "e49709c913d78603fa346be10c1lebf3.jpeg",
+    "timeline": "1824820000000",
+    "local": {
+      "_id": "65b57ad3f3dbb3eb6796e53c",
+      "name": "Snoopy Club",
+      "biography": "un'icona nel cuore di Modena, il luogo in cui la notte prende vita. Con la sua storia e il suo fascino senza tempo, Snoopy è il ritrovo perfetto per un'esperienza notturna indimenticabile.",
+      "indirizzo": "Piazza della Cittadella, 2/3",
+      "latitudine": 44.654136,
+      "longitudine": 10.918169,
+      "tipologiaLocale": "discoteca",
+      "zone": "modena centro",
+      "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg"
+    }
+  },
+  {
+    "_id": "66156c9ef6da40af79054f14",
+    "place": "65b5d26c149921e16b00ab2",
+    "tickets": [
+      {
+        "name": "uomo",
+        "description": "ingresso+consumazione",
+        "price": 15
+      },
+      {
+        "name": "donna",
+        "description": "ingresso+consumazione",
+        "price": 20
+      }
+    ],
+    "images": [
+      "374fdc1085f2bc392bea9b00b5150d5e.jpeg",
+      "e49709c913d78603fa346be10c1lebf3.jpeg"
+    ],
+    "descrizione": "Il venerdì modenese nella splendida location della discoteca Kyi di Modena, serata frequentata da un pubblico di età media tra i 20-30 anni",
+    "endtime": "1719885000000",
+    "isAcquistabile": true,
+    "nomeEvento": "moma",
+    "startTime": "1719867600000",
+    "photo": "e49709c913d78603fa346be10c1lebf3.jpeg",
+    "timeline": "1824820000000",
+    "local": {
+      "_id": "65b5d26c149921e16b00ab2",
+      "name": "bobotti",
+      "biography": "Un’oasi di sapori sui viali del parco. Colazioni, pranzi, aperitivi e cene.",
+      "indirizzo": "viale delle Rimembranze, 55, 41121 Modena MO",
+      "latitudine": "44.642344",
+      "longitudine": "10.921997",
+      "tipologiaLocale": "lounge bar",
+      "zone": "modena centro",
+      "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg"
+    }
+  },
+  {
+    "_id": "66214d87d0a3af88f07a360e",
+    "place": "668fc7ea63d1f913a69e74da",
+    "tickets": [
+      {
+        "name": "uomo",
+        "description": "hasfoidd",
+        "price": 15
+      }
+    ],
+    "images": [
+      "374fdc1085f2bc392bea9b00b5150d5e.jpeg",
+      "e49709c913d78603fa346be10c1lebf3.jpeg"
+    ],
+    "descrizione": "Ci troviamo sui viali di Modena, una location immersa nel verde. Bobotti propone un'oasi di sapori sui viali del parco.",
+    "endtime": "1719885000000",
+    "isAcquistabile": false,
+    "nomeEvento": "bobo-noon",
+    "startTime": "1719867600000",
+    "photo": "e49709c913d78603fa346be10c1lebf3.jpeg",
+    "timeline": "1824820000000",
+    "local": {
+      "_id": "668fc7ea63d1f913a69e74da",
+      "name": "bobotti 2",
+      "biography": "Un’oasi di sapori sui viali del parco. Colazioni, pranzi, aperitivi e cene.",
+      "indirizzo": "Viale delle Rimembranze, 55, 41121 Modena MO",
+      "latitudine": "44.642344",
+      "longitudine": "10.921997",
+      "tipologiaLocale": "lounge bar",
+      "zone": "modena centro",
+      "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg"
+    }
+  },
+  {
+    "_id": "66d4de9bd8af518cf7585975",
+    "place": "65b57ad3f3dbb3eb6796e53c",
+    "tickets": [
+      {
+        "name": "uomo",
+        "description": "hasfoidd",
+        "price": 15
+      }
+    ],
+    "images": [
+      "374fdc1085f2bc392bea9b00b5150d5e.jpeg",
+      "e49709c913d78603fa346be10c1lebf3.jpeg"
+    ],
+    "descrizione": "Il saturday snoopy è il sabato sera della nodena centro, l'età media è dai 15-22 anni, i dj selezionati e l'atmosfera di questa storica discoteca sapranno come farti passare una magica serata",
+    "endtime": "1720213200000",
+    "isAcquistabile": true,
+    "nomeEvento": "Saturday Snoopy",
+    "startTime": "1720213200000",
+    "photo": "e49709c913d78603fa346be10c1lebf3.jpeg",
+    "timeline": "1824820000000",
+    "local": {
+      "_id": "65b57ad3f3dbb3eb6796e53c",
+      "name": "Snoopy Club",
+      "biography": "un'icona nel cuore di Modena, il luogo in cui la notte prende vita. Con la sua storia e il suo fascino senza tempo, Snoopy è il ritrovo perfetto per un'esperienza notturna indimenticabile.",
+      "indirizzo": "Piazza della Cittadella, 2/3",
+      "latitudine": 44.654136,
+      "longitudine": 10.918169,
+      "tipologiaLocale": "discoteca",
+      "zone": "modena centro",
+      "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg"
+    }
+  }
+]
