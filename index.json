@@ -63,8 +63,8 @@
       "name": "bobotti",
       "biography": "Un’oasi di sapori sui viali del parco. Colazioni, pranzi, aperitivi e cene.",
       "indirizzo": "viale delle Rimembranze, 55, 41121 Modena MO",
-      "latitudine": "44.642344",
-      "longitudine": "10.921997",
+      "latitudine": 44.642344,
+      "longitudine": 10.921997,
       "tipologiaLocale": "lounge bar",
       "zone": "modena centro",
       "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg"
@@ -96,8 +96,8 @@
       "name": "bobotti 2",
       "biography": "Un’oasi di sapori sui viali del parco. Colazioni, pranzi, aperitivi e cene.",
       "indirizzo": "Viale delle Rimembranze, 55, 41121 Modena MO",
-      "latitudine": "44.642344",
-      "longitudine": "10.921997",
+      "latitudine": 44.642344,
+      "longitudine": 10.921997,
       "tipologiaLocale": "lounge bar",
       "zone": "modena centro",
       "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg"
