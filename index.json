@@ -10,8 +10,9 @@
       }
     ],
     "images": [
-      "374fdc1085f2bc392bea9b00b5150d5e.jpeg",
-      "e49709c913d78603fa346be10c1lebf3.jpeg"
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/locandina_snoopy.jpeg",
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/snoopy6.jpg",
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/snoopy5.jpg"
     ],
     "descrizione": "Il saturday snoopy è il sabato sera della nodena centro, l'età media è dai 15-22 anni, i dj selezionati e l'atmosfera di questa storica discoteca sapranno come farti passare una magica serata",
     "endTime": 1719885000000,
@@ -48,8 +49,10 @@
       }
     ],
     "images": [
-      "374fdc1085f2bc392bea9b00b5150d5e.jpeg",
-      "e49709c913d78603fa346be10c1lebf3.jpeg"
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/carceri5.png",
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/carceri4.png",
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/carceri3.png",
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/carceri1.png"
     ],
     "descrizione": "Il venerdì modenese nella splendida location della discoteca Kyi di Modena, serata frequentata da un pubblico di età media tra i 20-30 anni",
     "endTime": 1719885000000,
@@ -81,8 +84,8 @@
       }
     ],
     "images": [
-      "374fdc1085f2bc392bea9b00b5150d5e.jpeg",
-      "e49709c913d78603fa346be10c1lebf3.jpeg"
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/cotton4.jpg",
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/cotton2.jpg"
     ],
     "descrizione": "Ci troviamo sui viali di Modena, una location immersa nel verde. Bobotti propone un'oasi di sapori sui viali del parco.",
     "endTime": 1719885000000,
