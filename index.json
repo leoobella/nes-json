@@ -14,12 +14,12 @@
       "e49709c913d78603fa346be10c1lebf3.jpeg"
     ],
     "descrizione": "Il saturday snoopy è il sabato sera della nodena centro, l'età media è dai 15-22 anni, i dj selezionati e l'atmosfera di questa storica discoteca sapranno come farti passare una magica serata",
-    "endtime": "1719885000000",
+    "endtime": 1719885000000,
     "isAcquistabile": true,
     "nomeEvento": "Saturday Snoopy",
-    "startTime": "1719867600000",
+    "startTime": 1719867600000,
     "photo": "e49709c913d78603fa346be10c1lebf3.jpeg",
-    "timeline": "1824820000000",
+    "timeline": 1824820000000,
     "local": {
       "_id": "65b57ad3f3dbb3eb6796e53c",
       "name": "Snoopy Club",
@@ -52,12 +52,12 @@
       "e49709c913d78603fa346be10c1lebf3.jpeg"
     ],
     "descrizione": "Il venerdì modenese nella splendida location della discoteca Kyi di Modena, serata frequentata da un pubblico di età media tra i 20-30 anni",
-    "endtime": "1719885000000",
+    "endtime": 1719885000000,
     "isAcquistabile": true,
     "nomeEvento": "moma",
-    "startTime": "1719867600000",
+    "startTime": 1719867600000,
     "photo": "e49709c913d78603fa346be10c1lebf3.jpeg",
-    "timeline": "1824820000000",
+    "timeline": 1824820000000,
     "local": {
       "_id": "65b5d26c149921e16b00ab2",
       "name": "bobotti",
@@ -85,12 +85,12 @@
       "e49709c913d78603fa346be10c1lebf3.jpeg"
     ],
     "descrizione": "Ci troviamo sui viali di Modena, una location immersa nel verde. Bobotti propone un'oasi di sapori sui viali del parco.",
-    "endtime": "1719885000000",
+    "endtime": 1719885000000,
     "isAcquistabile": false,
     "nomeEvento": "bobo-noon",
-    "startTime": "1719867600000",
+    "startTime": 1719867600000,
     "photo": "e49709c913d78603fa346be10c1lebf3.jpeg",
-    "timeline": "1824820000000",
+    "timeline": 1824820000000,
     "local": {
       "_id": "668fc7ea63d1f913a69e74da",
       "name": "bobotti 2",
@@ -118,12 +118,12 @@
       "e49709c913d78603fa346be10c1lebf3.jpeg"
     ],
     "descrizione": "Il saturday snoopy è il sabato sera della nodena centro, l'età media è dai 15-22 anni, i dj selezionati e l'atmosfera di questa storica discoteca sapranno come farti passare una magica serata",
-    "endtime": "1720213200000",
+    "endtime": 1720213200000,
     "isAcquistabile": true,
     "nomeEvento": "Saturday Snoopy",
-    "startTime": "1720213200000",
+    "startTime": 1720213200000,
     "photo": "e49709c913d78603fa346be10c1lebf3.jpeg",
-    "timeline": "1824820000000",
+    "timeline": 1824820000000,
     "local": {
       "_id": "65b57ad3f3dbb3eb6796e53c",
       "name": "Snoopy Club",
