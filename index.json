@@ -19,7 +19,7 @@
     "isAcquistabile": true,
     "nomeEvento": "Saturday Snoopy",
     "startTime": 1719867600000,
-    "photo": "e49709c913d78603fa346be10c1lebf3.jpeg",
+    "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/locandina_snoopy.jpeg",
     "timeline": 1824820000000,
     "local": {
       "_id": "65b57ad3f3dbb3eb6796e53c",
@@ -30,7 +30,7 @@
       "longitudine": 10.918169,
       "tipologiaLocale": "discoteca",
       "zone": "modena centro",
-      "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg"
+      "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/locandina_snoopy.jpeg"
     }
   },
   {
@@ -59,7 +59,7 @@
     "isAcquistabile": true,
     "nomeEvento": "moma",
     "startTime": 1719867600000,
-    "photo": "e49709c913d78603fa346be10c1lebf3.jpeg",
+    "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/carceri5.png",
     "timeline": 1824820000000,
     "local": {
       "_id": "65b5d26c149921e16b00ab2",
@@ -70,7 +70,7 @@
       "longitudine": 10.921997,
       "tipologiaLocale": "lounge bar",
       "zone": "modena centro",
-      "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg"
+      "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/carceri5.png"
     }
   },
   {
@@ -92,7 +92,7 @@
     "isAcquistabile": false,
     "nomeEvento": "bobo-noon",
     "startTime": 1719867600000,
-    "photo": "e49709c913d78603fa346be10c1lebf3.jpeg",
+    "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/cotton4.jpg",
     "timeline": 1824820000000,
     "local": {
       "_id": "668fc7ea63d1f913a69e74da",
@@ -103,7 +103,7 @@
       "longitudine": 10.921997,
       "tipologiaLocale": "lounge bar",
       "zone": "modena centro",
-      "photo": "374fdc1085f2bc392bea9b00b5150d5e.jpeg"
+      "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/cotton4.jpg"
     }
   },
   {
