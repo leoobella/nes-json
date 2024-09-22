@@ -105,5 +105,40 @@
       "zone": "modena centro",
       "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/cotton4.jpg"
     }
+  },
+  {
+    "_id": "65c8f7bb1952d90cf03da139",
+    "place": "65b57ad3f3dbb3eb6796e53d",
+    "tickets": [
+      {
+        "name": "uomo",
+        "description": "ingresso + consumazione",
+        "price": 20
+      }
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto1.jpg",
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto2.jpg",
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto3.jpg",
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto4.jpg"
+    ],
+    "descrizione": "Goditi un aperitivo speciale al Labeerinto con **Live Apericoustic**: una serata di musica acustica dal vivo e buon cibo. Sorprenditi con una selezione di birre artigianali e deliziosi finger food, immerso in un’atmosfera rilassata e accogliente. Le note avvolgenti di artisti locali ti accompagneranno per tutta la serata, rendendo unico il tuo momento di relax e convivialità. Ti aspettiamo per un aperitivo perfetto, dove musica e sapori si incontrano!",
+    "endTime": 1727049600,
+    "isAcquistabile": false,
+    "nomeEvento": "Live Apericoustic al Labeerinto",
+    "startTime": 1727035200,
+    "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto1.jpg",
+    "timeline": 1727035200,
+    "local": {
+      "_id": "65b57ad3f3dbb3eb6796e53c",
+      "name": "Snoopy Club",
+      "biography": "Un'icona nel cuore di Modena, il luogo in cui la notte prende vita. Con la sua storia e il suo fascino senza tempo, Snoopy è il ritrovo perfetto per un'esperienza notturna indimenticabile.",
+      "indirizzo": "Piazza della Cittadella, 2/3",
+      "latitudine": 44.654136,
+      "longitudine": 10.918169,
+      "tipologiaLocale": "discoteca",
+      "zone": "modena centro",
+      "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/locandina_snoopy.jpeg"
+    }
   }
 ]
