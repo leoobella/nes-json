@@ -32,4 +32,15 @@
     "zone": "modena centro",
     "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/cotton4.jpg"
   }
+  {
+    "_id": "668fc7ea63d1f913a69e74db",
+    "name": "Labeerinto Gate 48",
+    "biography": "Labeerinto è un locale situato a Modena, noto per la sua vasta selezione di birre artigianali e per l'atmosfera accogliente e vivace. Il nome stesso, un gioco di parole tra labirinto e birra, sottolinea la loro specializzazione nella birra. Offre una grande varietà di birre alla spina, provenienti da birrifici locali e internazionali, oltre a una vasta gamma di birre in bottiglia. Il locale è apprezzato per la sua atmosfera rilassata, con arredi rustici e moderni, perfetto per una serata tra amici o per scoprire nuove birre di qualità. Labeerinto spesso organizza eventi legati al mondo della birra, come degustazioni e serate con birrai, oltre a concerti dal vivo e serate a tema. La cucina offre anche piatti che si abbinano bene con le birre, come taglieri di salumi, panini gourmet e snack veloci. Situato in una zona facilmente accessibile di Modena, Labeerinto è una meta ideale per gli amanti della birra e per chi cerca un posto con un'atmosfera conviviale e informale.",
+    "indirizzo": "Via S. Giacomo, 48, 41122 Modena MO",
+    "latitudine": 44.6443587,
+    "longitudine": 10.9220554,
+    "tipologiaLocale": "pub",
+    "zone": "modena centro",
+    "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/cotton4.jpg"
+  }
 ]
