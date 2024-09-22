@@ -117,28 +117,28 @@
       }
     ],
     "images": [
-      "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto1.jpg",
-      "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto2.jpg",
-      "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto3.jpg",
-      "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto4.jpg"
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto1.png",
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto2.png",
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto3.png",
+      "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto4.png"
     ],
     "descrizione": "Goditi un aperitivo speciale al Labeerinto con **Live Apericoustic**: una serata di musica acustica dal vivo e buon cibo. Sorprenditi con una selezione di birre artigianali e deliziosi finger food, immerso in un’atmosfera rilassata e accogliente. Le note avvolgenti di artisti locali ti accompagneranno per tutta la serata, rendendo unico il tuo momento di relax e convivialità. Ti aspettiamo per un aperitivo perfetto, dove musica e sapori si incontrano!",
     "endTime": 1727049600,
     "isAcquistabile": false,
     "nomeEvento": "Live Apericoustic al Labeerinto",
     "startTime": 1727035200,
-    "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto1.jpg",
+    "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto1.png",
     "timeline": 1727035200,
     "local": {
-      "_id": "65b57ad3f3dbb3eb6796e53c",
-      "name": "Snoopy Club",
-      "biography": "Un'icona nel cuore di Modena, il luogo in cui la notte prende vita. Con la sua storia e il suo fascino senza tempo, Snoopy è il ritrovo perfetto per un'esperienza notturna indimenticabile.",
-      "indirizzo": "Piazza della Cittadella, 2/3",
-      "latitudine": 44.654136,
-      "longitudine": 10.918169,
-      "tipologiaLocale": "discoteca",
+      "_id": "668fc7ea63d1f913a69e74db",
+      "name": "Labeerinto Gate 48",
+      "biography": "Labeerinto è un locale situato a Modena, noto per la sua vasta selezione di birre artigianali e per l'atmosfera accogliente e vivace. Il nome stesso, un gioco di parole tra labirinto e birra, sottolinea la loro specializzazione nella birra. Offre una grande varietà di birre alla spina, provenienti da birrifici locali e internazionali, oltre a una vasta gamma di birre in bottiglia. Il locale è apprezzato per la sua atmosfera rilassata, con arredi rustici e moderni, perfetto per una serata tra amici o per scoprire nuove birre di qualità. Labeerinto spesso organizza eventi legati al mondo della birra, come degustazioni e serate con birrai, oltre a concerti dal vivo e serate a tema. La cucina offre anche piatti che si abbinano bene con le birre, come taglieri di salumi, panini gourmet e snack veloci. Situato in una zona facilmente accessibile di Modena, Labeerinto è una meta ideale per gli amanti della birra e per chi cerca un posto con un'atmosfera conviviale e informale.",
+      "indirizzo": "Via S. Giacomo, 48, 41122 Modena MO",
+      "latitudine": 44.6443587,
+      "longitudine": 10.9220554,
+      "tipologiaLocale": "pub",
       "zone": "modena centro",
-      "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/locandina_snoopy.jpeg"
+      "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/labeerinto1.png"
     }
   }
 ]
