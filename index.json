@@ -55,10 +55,10 @@
       "https://raw.githubusercontent.com/leoobella/nes-json/main/carceri1.png"
     ],
     "descrizione": "Ex spaccio delle Carceri è un mix di energia e cultura. Il locale è lieto di ospitare un DJ set jazz con performance artistiche in un ambiente unico. L’atmosfera informale e la selezione di cocktail offrono un’esperienza coinvolgente, con la possibilità di socializzare e divertirsi fino a tardi, il tutto in un contesto storico che aggiunge fascino alla serata",
-    "endTime": 1727136000,
+    "endTime": 1727222400,
     "isAcquistabile": true,
     "nomeEvento": "Giovedi Jazz",
-    "startTime": 1727121600,
+    "startTime": 1727208000,
     "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/carceri5.png",
     "timeline": 1758633674,
     "local": {
@@ -88,10 +88,10 @@
       "https://raw.githubusercontent.com/leoobella/nes-json/main/cotton2.jpg"
     ],
     "descrizione": "Ogni sabato sera, il Cotton Club di Modena accoglie gli amanti della musica con i suoi eventi di punta, dove artisti locali e nazionali si esibiscono dal vivo. La serata è caratterizzata da un’atmosfera intima e vivace, con un palco che ospita generi musicali vari, dal jazz al blues, fino alla musica rock e soul. Gli ospiti possono godere di una performance di alta qualità, mentre si rilassano in un ambiente elegante e accogliente. Il bar offre una selezione di cocktail e bevande, creando il contesto perfetto per un’uscita serale ricca di emozioni e buona musica.",
-    "endTime": 1727136000,
+    "endTime": 1727222400,
     "isAcquistabile": false,
     "nomeEvento": "Cotton live",
-    "startTime": 1727121600,
+    "startTime": 1727208000,
     "photo": "https://raw.githubusercontent.com/leoobella/nes-json/main/cotton4.jpg",
     "timeline": 1758633674,
     "local": {
